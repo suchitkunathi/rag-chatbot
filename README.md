@@ -1,6 +1,10 @@
 # Rag-Chatbot
 Multiple PDFs RAG chatbot
 
+Extracts all the Images in the PDF's and stores them in 'static/extracted_images' directory for further use.
+
+NOTE : In next commit the chatbot will extract summaries of all these images and add them to the context.
+
 ## How to Run Locally (Windows)
 
 Similar steps for **MacOS** or **Linux** 
