@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-ollama
+langchain-text-splitters
+langchain-huggingface
+streamlit
+unstructured[pdf] 
+sentence-transformers
+faiss-cpu
